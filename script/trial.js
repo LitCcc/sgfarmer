@@ -7,7 +7,7 @@ vst_dict = JSON.parse(localStorage.getItem("sgamer_topic_visited"));
 if (!vst_dict)
     vst_dict = new Object();
 var tthre = new Date(localStorage['time_thres']);
-home_url = 'http://bbs.sgamer.com/forum-44-1.html';
+home_url = 'http://bbs.sgamer.com/forum-283-1.html';
 
 /*******************Time line***************
 Read one topic:
